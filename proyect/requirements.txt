@@ -1,0 +1,27 @@
+boto3==1.34.138
+botocore==1.34.138
+certifi==2024.6.2
+charset-normalizer==3.3.2
+distro==1.9.0
+greenlet @ file:///Users/runner/miniforge3/conda-bld/greenlet_1703201909568/work
+idna==3.7
+jmespath==1.0.1
+numpy @ file:///Users/runner/miniforge3/conda-bld/numpy_1718615057861/work/dist/numpy-2.0.0-cp312-cp312-macosx_10_13_x86_64.whl#sha256=f9519331e3b8425c443dfcfe262f732d9bb9099acbb4cfd9a468db8ad3316a60
+pandas @ file:///Users/runner/miniforge3/conda-bld/pandas_1715897629698/work
+psycopg2 @ file:///Users/runner/miniforge3/conda-bld/psycopg2-split_1701737820301/work
+psycopg2-binary @ file:///home/conda/feedstock_root/build_artifacts/psycopg2-split_1701737547976/work/psycopg2-binary
+PyMuPDF==1.24.7
+PyMuPDFb==1.24.6
+python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1709299778482/work
+pytz @ file:///home/conda/feedstock_root/build_artifacts/pytz_1706886791323/work
+PyYAML @ file:///Users/runner/miniforge3/conda-bld/pyyaml_1695373482406/work
+requests==2.32.3
+s3transfer==0.10.2
+setuptools==69.5.1
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
+SQLAlchemy @ file:///Users/runner/miniforge3/conda-bld/sqlalchemy_1718781149384/work
+tabula-py==2.9.3
+typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1717802530399/work
+tzdata @ file:///home/conda/feedstock_root/build_artifacts/python-tzdata_1707747584337/work
+urllib3==2.2.2
+wheel==0.43.0
